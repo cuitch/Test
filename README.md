@@ -1,2 +1,2 @@
 # Test
-for command test
+just for command test
